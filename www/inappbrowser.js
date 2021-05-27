@@ -33,7 +33,8 @@
             loaderror: channel.create('loaderror'),
             exit: channel.create('exit'),
             customscheme: channel.create('customscheme'),
-            message: channel.create('message')
+            message: channel.create('message'),
+            email: channel.create('email')
         };
     }
 
